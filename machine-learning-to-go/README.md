@@ -4,6 +4,10 @@ Bite-sized, portable machine learning lessons — concepts, examples, and notes 
 
 ## Lessons
 
+- 
+Machine Learning from Scratch, Lesson 1, Linear Regression 
+[https://www.instagram.com/reel/DdUXV56oJcl/?utm_source=ig_web_copy_link&avpt=MzRlODBiNWFlZA==]
+
 _Coming soon — add lessons here as you go._
 
 ## How to Use
